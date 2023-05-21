@@ -1,0 +1,48 @@
+{
+
+    "name": "Heroku VPS 24/7 #Shivay",
+
+    "description": "Deploy noVNC to Heroku.",
+
+    "keywords": [
+
+        "VNC",
+
+        "Docker",
+
+        "noVNC"
+
+    ],
+
+    "env": {},
+
+    "website": "",
+
+    "repository": "https://github.com/shivay-xd/Heroku-vps.git",
+
+    "stack": "container"
+{
+
+    "name": "Heroku VPS 24/7 #Shivay",
+
+    "description": "Deploy noVNC to Heroku.",
+
+    "keywords": [
+
+        "VNC",
+
+        "Docker",
+
+        "noVNC"
+
+    ],
+
+    "env": {},
+
+    "website": "",
+
+    "repository": "https://github.com/shivay-xd/Heroku-vps.git",
+
+    "stack": "container"
+
+}
